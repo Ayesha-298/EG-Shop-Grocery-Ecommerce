@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding:0% ;
+  
+}
+
+.main{
+   
+    background-image: url(assets/2.png);
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    background-color: white;
+    color: green;
+    border: 1px solid green;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+.button:hover{
+    background-color: green;
+    color: white;
+}
+ .display{
+    background-image: url(assets/4.png);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+ } 
+ /* About Us Css */
+ .pic{
+    height: 250%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    background-image: url(assets/fruit\ basket.webp);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+ }
+ .about{
+    text-align: center;
+    color: white;
+ }
+ /* cart page css */
+
+ .image{
+    height: 250%;
+    width: 100%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    background-image: url(assets/fruit\ basket.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+ .product{
+    text-align: center;
+    color: white;
+    
+ }
+ /* My Account css */
+ .banner{
+    height: 250%;
+    width: 100%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    background-image: url(assets/fruit\ basket.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+ .myaccount{
+    text-align: center;
+    color: white;
+ }
+ 
